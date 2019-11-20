@@ -1,3 +1,3 @@
-# spritequery
+# spriteRender
 
 A light sprite library
