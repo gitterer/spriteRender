@@ -197,8 +197,6 @@ Array.detect = function() {
                 i[p-1] = arguments[0][p -1];
                 j[p-1] = arguments[0][p];
             }
-        
-     //  
     }
     i = i.concat(j)
     i.sort(function(a, b) {
